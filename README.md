@@ -7,3 +7,5 @@ Used cli git tool to set username and email globally.
 Testing edits with TextEdit prior to installing Atom.
 
 Making edits in fresh install of Atom.
+
+New branch, testing edits now.
